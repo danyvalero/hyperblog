@@ -3,3 +3,14 @@ Prueba
 Su vida de Desarrollador.
 
 Otra ves inicio a ladrir
+
+int a = 12;
+
+if (a % 2 == 0)
+{
+    println("Par")
+}
+else
+{
+    println("Impar")
+}
