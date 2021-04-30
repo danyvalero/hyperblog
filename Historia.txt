@@ -4,6 +4,8 @@ Su vida de Desarrollador.
 
 Otra ves inicio a ladrir
 
+Master 1
+
 int a = 12;
 
 if (a % 2 == 0)
