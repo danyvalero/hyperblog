@@ -4,4 +4,6 @@ Un blog aprendiendo de Git y GitHub
 
 Esto es un inicio y puede irse modificando con el tiempo…
 
+* Creado por Platzi
+
 ### # ¡Gracias por tenerme en cuenta! 
